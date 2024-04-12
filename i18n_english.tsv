@@ -1,0 +1,873 @@
+Newbie Guide
+Beginner's Guide
+Enter the room
+Enter the room
+Victory!
+Victory!
+Victory! 5 times
+Victory! 5 times
+Victory! 20 times
+Victory! 20 times
+Victory! 50 times
+Victory! 50 times
+Victory! 99 times
+Victory! 99 times
+Tomato
+Earn over 50000 coins using tomatoes
+Milk
+Earn over 50000 coins using milk
+Egg
+Earn over 50000 coins using eggs
+Orange
+Earn over 50000 coins using oranges
+Fish
+Earn over 50000 coins using fish
+Ore
+Earn over 50000 coins using ore
+Knife
+Earn over 75000 coins using a knife
+Dish
+Earn over 75000 coins using dishes
+Cake
+Earn over 75000 coins using cake
+Books
+Earn over 75000 coins using books
+Wine
+Earn over 75000 coins using wine
+Potion
+Earn over 75000 coins using poisons
+Gem
+Earn over 100000 coins using gems
+Diamond
+Earn over 100000 coins using diamonds
+Treasure Chest
+Earn over 100000 coins using treasure chests
+Ring
+Earn over 100000 coins using rings
+Battery
+Earn over 100000 coins using batteries
+Gun
+Earn over 100000 coins using guns
+Chicken
+Have more than 18 chickens in play
+Master of Elimination
+Remove characters more than 30 times in one game
+Master of Summoning
+Summon characters more than 40 times in one game
+Use items more than 40 times
+Use items more than 40 times in one game
+Sin City
+Have more than 10 gang members or criminals among the characters
+Magic School
+Have the headmaster, male students, female students, administrators, and teachers in play at the same time
+Dragon & Dungeon
+Have dragons, barbarians, mages, priests, thieves, and druids in play at the same time
+Band
+Have bassists, drummers, guitarists, rock stars, fans, dancers, and DJs in play at the same time
+Lucky Cat
+Get 10000 coins using a lucky cat
+Journey to the West
+Have Tang Seng, Sun Wukong, Zhu Bajie, Sha Wujing, Chang'e, Bull Demon King, and White Horse at the same time
+Sergeant
+The sergeant removes 2000 characters
+2 to the power of N
+Get over 1024 coins in a single round with sunflowers
+
+
+
+
+
+
+
+
+
+
+Shopaholic
+For every empty shelf space increase the price of all products by 1 <CoinIcon>.
+Paid Vacation
+Every empty character slot gives 1 <CoinIcon>
+Shopping Cart
+The production of the following items will increase by 1 for 3 rounds: <tomato><orange><fish><cookedfood><cake><candy><egg><milk><wine>
+Treasure Chest
+Production of the following items will increase by 1 for 3 rounds: <weapon><chest><ring><battery><magicring><gun><gem><diamond>
+Matches
+Get 5 more <refresh> 
+Red Cross
+Get 3 more <removed>
+Stone
+Get 3 more <stone>
+Decoration
+Double the <CoinIcon> gained from <ToyBearPink><ToyBear>
+Midas Touch
+Randomly purchase one item on the shelf and gain double its <CoinIcon> value.
+Material Duplicator
+Randomly duplicate a product on the shelf.
+Material Synthesizer
+Remove one <tomato><orange><fish><rock><cookedfood><cake><candy><egg><milk><wine> and generate one <poison><weapon><chest><ring><battery><magicring><gun><gem><diamond>.
+Farmer
+<CitizenFarm> can increase the price of products from <PlantTomato><PlantOrange><AnimalMilkCow><AnimalRooster> by 2 <CoinIcon>.
+Farm
+Randomly produce 2 <tomato><orange> each round.
+Mine
+Produce 1 <rock> each round, and produce an additional <rock> for every <CitizenMiner><PrincessDwarf>.
+Police Station
+Summon 2 <CitizenPolice>, and gain an extra 10 <CoinIcon> when <CitizenPolice><DetectiveSherlock> removes someone.
+Library
+Increase <book> price by 2 <CoinIcon> and produce 1 <book> each round.
+Laboratory
+Increase <poison> price by 2 <CoinIcon> and produce 1 <poison> each round.
+Food Factory
+<cookedfood> produced by <CitizenCooker><LordRingSam> is worth at least 4 <CoinIcon> and produce 1 <cookedfood> each round.
+Pastry Factory
+<cake> produced by <CitizenPastry><KindomMinister> is worth at least 4 <CoinIcon> and produce 1 <cake> each round.
+Bar
+Increase <wine> price by 2 <CoinIcon> and produce 1 <wine> each round.
+Candy Factory
+Increase <candy> price by 2 <CoinIcon> and produce 1 <candy> each round.
+Foundry
+Increase <weapon> price by 2 <CoinIcon> and produce 1 <weapon> each round.
+Treasure Chest
+Increase <chest> price by 2 <CoinIcon> and produce 1 <chest> each round.
+Jeweler's Tools
+Increase <ring> price by 2 <CoinIcon> and produce 1 <ring> each round.
+Nuclear Fuel
+Increase <battery> price by 2 <CoinIcon> and produce 1 <battery> each round.
+Black Market
+Increase <gun> price by 2 <CoinIcon> and produce 1 <gun> each round.
+Gem Mine
+<PrincessDwarf><PrincessAriel><CitizenMiner> increases the chance of producing <gem><diamond> by 15%.
+Cat Bowl
+<AnimalCat> production increases from 2 to 3.
+Dog Bowl
+<AnimalDog> character bonus increases from 2 <CoinIcon> to 3 <CoinIcon>.
+Concert
+For each kind of the following characters present: <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanFans><BanDancer><BanDJ>, give 3 <CoinIcon>.
+Magic School
+For each kind of the following characters present: <MagicBookMG><MagicShoolMG><MagicBoy><MagicGirl><MagicTeacher>, give 3 <CoinIcon>.
+Zoo
+For each kind of the following animals present: <AnimalBear><AnimalCat><AnimalMilkCow><AnimalDog><AnimalRooster><AnimalWolf><AnimalMonkey>, give 3 <CoinIcon>.
+Dungeon
+For each kind of the following characters present: <DNDBarbarian><KindomKnight><DNDWizzard><DNDPriest><DNDDruid><DNDTheif>, give 3 <CoinIcon>.
+Halloween
+For each kind of the following characters present: <HalloweenGhostSmall><HalloweenGhost><HalloweenGhostBig><HalloweenPumpkin><HalloweenZombie><VampVampire><RedHoodWolf>, give 3 <CoinIcon>.
+Princess Party
+For each kind of the following princesses present: <KindomPrincess><PrincessCinderella><PrincessAriel><PrincessAurora><PrincessElsa><PrincessBelle><PrincessJasmine>, give 3 <CoinIcon>.
+Journey to the West
+For each kind of the following characters present: <XiyouMonk><XiyouMonkey><XiyouPig><XiyouSha><XiyouChange><XiyouCowman><XiyouLongMa>, give 3 <CoinIcon>.
+Ring Squad
+For each kind of the following characters present: <LordRingGimli><LordRingAragon><LordRingLegolas><LordRingFrodo><LordRingSam><LordRingGandalf>, give 3 <CoinIcon>.
+Palace
+For each kind of the following characters present: <KindomKing><KindomJoker><KindomQueen><KindomNoble><KindomMinister><KindomKnight><KindomPoet><KindomPrincess>, give 3 <CoinIcon>.
+Mafia
+For each kind of the following characters present: <CitizenPrisoner><MafiaMan1><MafiaMan2><MafiaMan3><MafiaMan4>, give 3 <CoinIcon>.
+Robot Enthusiasts
+For each kind of the following characters present: <SifiRobot1><SifiRobot2><SifiRobot3><TerminatorRobot><TerminatorT800><SifiGameBoy><SuperBoyRobot>, give 3 <CoinIcon>.
+Pirate Ship
+For each kind of the following characters present: <PirateSailor><PirateElizabeth><PirateTurner><PirateJack><PirateMonkey>, give 3 <CoinIcon>.
+Loan
+Get 200 <CoinIcon> this round then pay 250 <CoinIcon> after 20 rounds.
+Bank
+Gives 3 <CoinIcon> each round.
+Immigration
+Draws 3 characters after use, may be <CitizenFisher><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2><CitizenCowboy><CitizenCooker><CitizenPastry><CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation>
+Worker Hiring Contract II
+Draws 3 characters after use, may be <CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation>
+Worker Hiring Contract I
+Draws 3 characters after use, may be <CitizenFisher><CitizenSmith><CitizenMiner><CitizenWoman1><CitizenWoman2><CitizenCooker><CitizenPastry>
+Pet House
+Draws 3 characters after use, may be <AnimalBear><AnimalCat><AnimalMilkCow><AnimalDog><AnimalRooster><AnimalWolf><AnimalMonkey>
+Animal Tamer Whip
+<CitizenAnimalMG> gives an extra 10 <CoinIcon> when removing an animal.
+Chicken Coop
+Summon one <AnimalRooster> every 10 rounds and <egg> price increases from 1 <CoinIcon> to 2 <CoinIcon>.
+Band
+When <BanBoy1><BanBoy2><BanBoy3><BanBoy4> are present at the same time, the price of <wine> doubles.
+Crazy Fans
+The chance of summoning <BanFans> Increases to 15%.
+Zombie Brain
+<HalloweenZombie> Gives an extra 10 <CoinIcon> when eating plants.
+Bee
+Increase the production of <PlantTomato><PlantOrange> by 1, <PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantFlowerGirl> gives an extra 2 <CoinIcon>.
+Sunflower
+<PlantSunflower> Increases the price by 1 <CoinIcon>.
+Sun
+<PlantSun> effect changed to: Gives an extra 5 <CoinIcon> when plants gain coins.
+Dragon's Treasure
+<DNDDragon> randomly produces 15 <chest><gem><diamond> when removed.
+Ghost
+Double the price of <candy> when <HalloweenGhostSmall><HalloweenGhost><HalloweenGhostBig> makes a purchase.
+Silver Bullet
+<EpicHumanHero><VampHunter> give an extra 10 <CoinIcon> when removing monsters.
+Vampire Fangs
+The probability of <VampLord> summoning a vampire increases to 30%.
+Fried Chicken
+<AnimalWolf><RedHoodWolf><LordRingOrc> give an extra 5 <CoinIcon> when removing <AnimalRooster>.
+Super Sea Monster
+Triples the <CoinIcon> gained by <Piratekraken> when making a purchase and <Piratekraken> can convert <PirateSailor><PirateTurner><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2><CitizenCowboy><CitizenCooker><CitizenPastry><CitizenChemist><CitizenBartender><CitizenWoman2><CitizenJeweler><SifiRadiation>
+King
+<KindomKing> gains 2x its level in <CoinIcon> each round and increases the chance of leveling up by 5%.
+Frodo
+<LordRingFrodo> can also remove <LordRingBlack>
+Fierce Orcs
+<LordRingAragon> Gives an extra 10 <CoinIcon> when removing <LordRingOrc>.
+Tombstone
+<CoinIcon> gained by removing anyone will be doubled.
+Ghost Ship
+Every 3 <PirateBone> removed by others gains 100 <CoinIcon>.
+Pirate Hat
+<PirateJack>'s summoning probability increases by 25%, and the probability of encountering a pirate when citizens draw is increased.
+Dungeon Amulet
+<DNDDragon> cannot be killed but can obtain <CoinIcon>.
+Resurrection Technique
+The probability of <DNDDragon> killing citizens is reduced by 50%.
+Adventurer's Guild
+The probability of encountering <DNDDragon><DNDBarbarian><DNDWizzard><DNDPriest><DNDTheif><DNDDruid><KindomKnight> increases when citizens draw.
+Monkey Assistant
+<PirateDavy> can remove citizens from the group where <PirateMonkey> is located.
+BotanicalGarden
+For each of the following characters <PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantFlowerGirl><PlantSunflower><PlantFlower> present, give 3<CoinIcon>.
+AncientElf
+<PlantFlowerGirl> receives the total coins obtained by all plants on the field at the end of each round, 
+Rain
+Remove 1 <PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantSunflower> each round,  if successful then summon 1 <PlantFlower>.
+RecycleBin
+Click the icon to use.\nAfter use, remove all <refresh><removed><stone>, get 50<CoinIcon> for each prop.
+ElementaEcho
+<ElementFireMan><ElementRockMan><ElementDelMan> Get 1 prop each round and removes itself after 6 rounds.
+Godfather
+Increase the transformation probability of <MafiaManBoss> to 100%.
+Leadership
+Increase the acquisition probability of <MafiaMan1><MafiaMan2><MafiaMan3><MafiaMan4><CitizenPrisoner>.
+Cow Bell
+<milk> price +1 <CoinIcon>, summon <AnimalMilkCow> every 10 rounds.
+Sutras
+Increase the appearance probability of <XiyouMonkey><XiyouPig><XiyouSha><XiyouChange><XiyouCowman><XiyouLongMa>.
+Tomato Man
+Orange Man
+Man-eating Flower
+Remove one <CitizenFisher><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2>\n<CitizenCowboy><CitizenCooker><CitizenPastry><CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation><MythSoul> in group then gain 15 <CoinIcon> and 1 <refresh>.
+Cactus
+Everyone in group has increased purchase quantity by 1.
+Sun Man
+Give an extra 5 <CoinIcon> when <PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantFlowerGirl><PlantSunflower> in group gains coins.
+Flower Fairy
+25% chance to randomly summon one\n<PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantFlowerGirl><PlantSunflower><PlantFlower>\nand gain the total <CoinIcon> gained by the plants in group during this round.
+Sunflower
+Double the <CoinIcon> gained for each <PlantSun>.
+Farmer
+Increase the production of <PlantTomato><PlantOrange><AnimalMilkCow><AnimalRooster> in group by 2.
+Miner
+10% chance to produce <gem> instead of <rock>
+Fisherman
+8% chance to produce <chest>
+Teacher
+Produce 1 <book> for every <milk> purchased.
+Cook
+Produce <cookedfood> with a price equivalent to the total <CoinIcon> gained in this round.
+Pastry Chef
+Produce <cake> with a price equivalent to the total <CoinIcon> gained in this round.
+Blacksmith
+Produce 1 <weapon> for every <rock> purchased and after 20 productions he converts to <LordRingGimli>
+Angel
+Double the <CoinIcon> gained for every purchase made in the group.
+Female Angel
+Give an additional 4<CoinIcon> when a group member makes a purchase
+God
+50% chance to increase the level of characters in group by 1.
+Hero
+Remove one\n<HalloweenGhostSmall><HalloweenGhost><HalloweenGhostBig><HalloweenPumpkin>\n<HalloweenZombie><VampVampire><RedHoodWolf><MythSoul>\nin group  and gain 10 <CoinIcon>. After 10 purchases convert to <VampHunter>.
+Demon Hunter
+Gives 2x its level in <CoinIcon>.\nremove one of these from the group\n<HalloweenGhostSmall><HalloweenGhost><HalloweenGhostBig><HalloweenPumpkin>\n<HalloweenZombie><VampVampire><RedHoodWolf><MythSoul>\nand gain 15 <CoinIcon>. Increase 1 level.
+Vampire Lord
+4x the <CoinIcon> gained by\n<HalloweenGhostSmall><HalloweenGhost><HalloweenGhostBig><HalloweenPumpkin>\n<HalloweenZombie><VampVampire><RedHoodWolf><VampServant>\nin group.\nHas a 15% chance to summon a <VampVampire>.
+Witch
+Makes 3 <poison> after 20 rounds.
+Vampire
+Has 30% chance to convert one\n <CitizenFisher><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2>\n<CitizenCowboy><CitizenCooker><CitizenPastry><CitizenBartender><CitizenJeweler><SifiRadiation>\nin group into a <VampVampire>.
+Werewolf
+Remove one <VampVampire><AnimalRooster><MythSoul> in group and gain 10 <CoinIcon>.
+Jellybean Man
+Makes 3 <candy> after 20 rounds.
+Little Ghost
+Convert to <HalloweenGhost> after 15 purchases.
+Big Ghost
+Convert to <HalloweenGhostBig> after 25 purchases.
+Giant Ghost
+Pumpkin Man
+Increases the production of <candy><poison> for <CandyMan><VampServant> in group by 4.
+Zombie
+Removes one\n<PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantFlowerGirl><PlantSunflower><MythSoul>\nin group and gains 10 <CoinIcon> then Produces 3 <candy>.
+Bear
+Give extra 25 <CoinIcon> when making a purchase.
+Cat
+Increases the production of\n<CitizenFisher><CitizenSmith><CitizenMiner><CitizenWoman1><CitizenWoman2>\n<CitizenCooker><CitizenPastry><CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation>\n in group by 2.
+Cow
+Dog
+Give extra 2 <CoinIcon> for everyone of\n<CitizenFisher><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2><CitizenCowboy><CitizenCooker>\n<CitizenPastry><CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation><CitizenPolice><DetectiveWatson>\n in group when purchasing or producing.
+Chicken
+Has 35% chance to turn one <egg> into a <AnimalRooster> every 3 rounds.
+Wolf
+Removes all <AnimalRooster><MythSoul> in group and gains 8 <CoinIcon> for each.\nGive an extra 4 <CoinIcon> when <LordRingAragon><DNDBarbarian><PirateTurner><PirateSailor>\ngains coins.
+Monkey
+Increases the production of\n<PirateJack><PrincessJasmine><PrincessDwarf><PrincessCinderella><PrincessSnowWhite><PrincessAriel>\nin group by 4.
+Cowboy
+1% chance to summon 1 <PlantSun>, increases chances by 2% for each <AnimalMilkCow><AnimalRooster> in the group.
+Animal Keeper
+Remove one\n<AnimalBear><AnimalCat><AnimalMilkCow><AnimalDog><AnimalRooster><AnimalWolf><AnimalMonkey><MythSoul>\nin group and gain 20 <CoinIcon>.
+Wizard Administrator
+Produces an extra <book> after 20 rounds then another extra <book> after 40 rounds.
+Chemist
+Produces one <poison> for every <rock> purchased.
+Wizard Headmaster
+Produce <book> and <poison>\nEach production of 1 <book> or <poison> triples the price of a random <book><poison> on the shelf.
+Wizard Boy Student
+Triples the <CoinIcon> gained by <MagicGirl> in group.
+Wizard Girl Student
+Triples the <CoinIcon> gained by <MagicBoy> in group.
+Wizard Teacher
+After any group member produces <poison>, double the price of 1 random <poison> items on the shelf.
+Princess Belta
+Give extra 5 <CoinIcon> for each\n<AnimalBear><AnimalCat><AnimalMilkCow><AnimalDog><AnimalRooster><AnimalWolf><AnimalMonkey>\nin group.
+Sea Monster
+Gives 2x its level in <CoinIcon>.\nConvert a random\n<PirateSailor><PirateTurner>\nin group into <PirateBone> and increases level by 1.
+Skeleton Sailor
+Remove itself after 4 rounds.
+Sailor
+Removes itself after 6 purchases.
+Pirate Woman
+Removes 1 random <chest> from the shelf, if successful then double the price of 1 random <chest> items.
+Pirate Man
+Randomly removes 1 product from the shelf. If succeeded, purchase <weapon> at twice the price.
+Captain Jack
+25% chance to summon a <PirateSailor>.\n50% chance of producing 1 <chest>.\nEach <PirateElizabeth><PirateTurner><PirateSailor>\nin group increases the chance to summon by 30%,
+Pirate Monkey
+Gives an extra 4 <CoinIcon> when <PirateSailor><PirateElizabeth><PirateTurner><PirateJack><PirateDavy><PirateBone> in group gains coins.
+Captain Octopus
+Removes one <PirateBone><MythSoul> in group and gains 15 <CoinIcon>.
+King
+Get <CoinIcon> equal to its level, purchase 1 product randomly, and have a 25% chance to increase its level by 1.
+Clown
+5x the <CoinIcon> gained by <KindomKing> in group and a 20% chance to remove <KindomKing> and become the <KindomKing>.
+Queen
+Purchase 1 item randomly.\nEach purchase increases its level by 1.\n<CoinIcon> gained is equal to item price times level.\n50% chance to reset to level 1 on round end.
+Noble
+Each time a <cake><cookedfood> is consumed, the prices of one other items of the same kind on the shelf are doubled.
+Mimic Chest
+Remove 1 <gem> or <diamond> to increase 1 level. The price of produced <chest> increases by the level number in <CoinIcon>.
+Knight
+Keep everyone in group from being removed or remove themselves, doesnt protect oneself.
+Servant
+Can purchase twice. Produces <cake> with a price equivalent to the total <CoinIcon> gained in this round.
+Housekeeper
+Increase the production of <LordRingSam><KindomMinister> in group by 2.
+Poet
+Everyone in the group increases purchase quantity by 3.
+Princess
+Give extra 10 <CoinIcon> when\n<KindomKing><KindomJoker><KindomQueen><KindomNoble><KindomMinister>\n<KindomKnight><KindomPoet><KindomPrincess><KindomWaiter>\nin group gains coins.
+Dragon
+Gives <CoinIcon> equal to its level. 20% chance to increase 1 level when making a purchase.\n30% chance to remove a\n<DNDBarbarian><KindomKnight><DNDWizzard><DNDPriest><DNDDruid><DNDTheif><MythSoul>\nin the group. If successful increase level by 1.
+Barbarian
+Has a 10% chance of killing <DNDDragon> in the group. If successful earn <CoinIcon> equal to 200x the <DNDDragon> level.
+Mage
+Convert one product into<chest>\n10% chance of killing <DNDDragon> in group and gains 200x level<CoinIcon>
+Priest
+For each\n<DNDBarbarian><KindomKnight><DNDWizzard><DNDPriest><DNDDruid><DNDTheif>\nin the group give an extra 6 <CoinIcon> when priest makes a purchase.
+Thief
+Produce 1 random valuable item after a purchase.\n10% chance of killing <DNDDragon> in the group, if successful gain <CoinIcon> equal to 200x the <DNDDragon> level.
+Druid
+Has a 30% chance to randomly summon one <AnimalBear><AnimalCat><AnimalMilkCow><AnimalDog><AnimalRooster><AnimalWolf><AnimalMonkey>.\n10% chance of killing <DNDDragon> in the group, if successful gain <CoinIcon> equal to 200x <DNDDragon> level.
+Princess Jesmile
+Makes 2 <ring> after 20 rounds.
+Jeweler
+Makes 1 <ring> for every <candy> purchased.
+Orc
+Remove one \n<AnimalBear><AnimalCat><AnimalMilkCow><AnimalDog><AnimalRooster><AnimalWolf><AnimalMonkey><MythSoul>\nin the group and gain 15 <CoinIcon> then removes itself.
+Guru
+Has a 10% chance of summoning a <LordRingBlack>. Removes itself if summon is successful.
+Ring Spirit
+On death it will become the <magicring>.
+Saraman
+Has a 20% chance to summon a <LordRingOrc> when a <weapon> is purchased.
+Gimnee
+Make a double priced <weapon> for every <rock> purchased. Remove one <LordRingBlack> in the group.
+Aralon
+Remove one <LordRingOrc><MythSoul> from the same group to gain 10 <CoinIcon>, and remove one <LordRingBlack>
+Legales
+After any group member purchases <weapon>, double the price of 1 random <weapon> items on the shelf.
+Frato
+Gives an extra 15 <CoinIcon> when purchasing <cookedfood>. Summon one <LordRingBlack> after purchasing the <magicring>.
+Sami
+Can purchase twice. Produces <cookedfood> with a price equivalent to the total <CoinIcon> gained in this round.\nTriples the <CoinIcon> gained by <LordRingFrodo> in the group.
+Grandulf
+Double the <CoinIcon> gained by\n <LordRingOrc><LordRingGollum><LordRingBlack><LordRingSaruman><LordRingGimli>\n<LordRingAragon><LordRingLegolas><LordRingFrodo><LordRingSam>\nin the group.
+Criminal
+Steal a product randomly and increase level by 1. Will be rewarded when caught.
+Astronaut
+Has a 50% chance summoning a <PlantStar>.\nGive an extra 20 <CoinIcon> when <PlantSun><PlantMoon><PlantStar> in the group gains coins.
+Radiation Worker
+Make 1 <battery> for every <poison> purchased.
+Alien Monster
+After making a purchase, convert a\n<CitizenFisher><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2>\n<CitizenCowboy><CitizenCooker><CitizenPastry><CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation>\nin the group into <SifiAlien2Egg>.\nGive an extra 10 <CoinIcon> when <SifiAlien2Egg><SifiAlien2> in the group gains coins.
+Alien Monster Larvae
+Level up by 1 each round, transform into <SifiAlien2> after reaching level 10. 
+Sergeant
+Removes a\n<SifiAlien><SifiAlien2><SifiAlien2Egg><SifiRobot1><SifiRobot2><SifiRobot3>\n<TerminatorRobot><TerminatorT800><SifiGameBoy><SuperBoyRobot><StarwarC3po><MythSoul>\nin the group and gains 60 <CoinIcon>.
+Alien
+Removes a <AnimalMilkCow><MythSoul> from the group, if successful summons a <StarwarC3po>, and removes itself.
+Game Machine
+Give an extra 6 <CoinIcon> when\n<BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDancer><BanDJ><BanFans>\nin the group gains coins.
+Programmer
+Increase the production of <SifiRobot1><SifiRobot2><SifiRobot3> in the group by 3.
+Battery Robot
+If no purchase is made, make 1 <battery>. If <rock> is purchased, make 2 <battery. Has 5% chance to summon a <TerminatorRobot>.
+Gun Robot
+If purchased<rock> Just produce 1 more<gun> , with a 5% chance of summoning one<TerminatorRobot>
+Robot Bartender
+If purchased<rock> Just produce 1 more<wine> , with a 5% chance of summoning one <TerminatorRobot>
+AI
+Triple the price of items made by <SifiRobot1><SifiRobot2><SifiRobot3> in the group.
+Destroyer Robot
+Will be removed if not purchased for 10 rounds
+Destroyer T800
+After any group member purchases <gun><battery>, the price of one random items of the same type on the shelf is tripled.
+Destroyer Killer
+Removes a <TerminatorRobot><MythSoul> in the group, if successful gain 30 <CoinIcon>.
+Police
+Removes a <CitizenPrisoner><MythSoul> in the group, if successful gain <CoinIcon> equal to 6x its level then remove itself.\nRemoves a <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanFans><BanDancer><BanDJ> in the group and gains 40 <CoinIcon> then remove itself.
+Sherlock
+Removes a <CitizenPrisoner>in the group and gains <CoinIcon> equal to its level x8.\nRemoves a <MafiaMan1><MafiaMan2><MafiaMan3><MafiaMan4><MythSoul>in the group, if successful gain 20 <CoinIcon>.
+Watson
+20% chance to summon a <CitizenPolice>.
+Bassist
+After every 20 purchases, gain 1 extra <CoinIcon> per round.\nGet an extra 2 <CoinIcon> for each\n <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDancer><BanDJ><BanFans> in the group.
+Drummer
+After every 20 purchases, gain 1 extra <CoinIcon> per round.\nGet an extra 2 <CoinIcon> for each\n <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDancer><BanDJ><BanFans> in the group.
+Guitarist
+After every 20 purchases, gain 1 extra <CoinIcon> per round.\nGet an extra 2 <CoinIcon> for each\n <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDancer><BanDJ><BanFans> in the group.
+Rock Star
+After every 20 purchases, gain 3 extra <CoinIcon> per round.\nGet an extra 4 <CoinIcon> for each\n <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDancer><BanDJ><BanFans> in the group.
+Fan
+Has an 8% chance to summon a <BanFans> when making a purchase.\nDouble the purchase price when <BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDJ> is in the group.
+Dancer
+Gives an extra 10 <CoinIcon> when <BanFans> in the group gains coins.
+DJ
+For every\n<BanBoy1><BanBoy2><BanBoy3><BanBoy4><BanDancer><BanDJ><BanFans>\nincrease the price of 1 random <wine><candy> on the shelf by 5 <CoinIcon>.
+Lucky Cat
+Gives an extra 10 <CoinIcon> to everyone when they purchase. Removes itself after 1 round.
+Unicorn
+Increases the chance of a rare character appearing. A level 4 character will appear next round. Remove itself after 1 round.
+Element Fire
+Gives 3 more <refresh>. Removes itself after 1 round.
+Element Stone
+Gives 3 more <stone>. Removes itself after 1 round.
+Tang Monk
+For each <XiyouMonkey>, <XiyouPig>, <XiyouSha>, <XiyouChange>, <XiyouCowman>, <XiyouLongMa>, increase consumption by 1, transforming a <AnimalMonkey> into <XiyouMonkey>, and a <AnimalMilkCow> into <XiyouCowman> within the same group.
+Sun Wukong
+Removes one <XiyouCowman><MythSoul>in the group and gains 50 <CoinIcon>.
+Zhu Bajie
+Get an extra 5 <CoinIcon> when making a purchase.\n<XiyouChange> in the group gives an extra 20 <CoinIcon>.
+Sha Wujing
+After any group member purchases <book>, double the price of 1 random <book> items on the shelf.
+Chang'e
+Removes 1 random <ring> from the shelf, if successful then double the price of 1 random <ring> items. Also, make <XiyouPig> in the same group receive <CoinIcon> x4.
+Bull Demon King
+White Dragon Horse
+Gives an extra 10 <CoinIcon> when\n<XiyouMonk><XiyouMonkey><XiyouPig><XiyouSha><XiyouChange><XiyouCowman><XiyouLongMa>\nin the group gain coins.
+Gangster Boss
+Has a 30% chance to convert a\n<CitizenFisher><CitizenSmith><CitizenMiner><CitizenFarm><CitizenWoman1><CitizenWoman2>\n<CitizenCowboy><CitizenCooker><CitizenPastry><CitizenChemist><CitizenBartender><CitizenJeweler><SifiRadiation>\nin the group to <CitizenPrisoner><MafiaMan1><MafiaMan2><MafiaMan3><MafiaMan4>.\nNo <CoinIcon> deducted if <CitizenPolice><DetectiveSherlock><DetectiveWatson> is in the group.
+Arms Dealer
+Produces an extra <gun> when any <MafiaMan1><MafiaMan2><MafiaMan3><MafiaMan4> is in the group. No <CoinIcon> deducted if <CitizenPolice><DetectiveSherlock><DetectiveWatson> is in the group.
+Street Gangster
+Get an extra 5 <CoinIcon> when making a purchase. <MafiaMan1><MafiaMan2><MafiaMan3><MafiaMan4><MafiaManBoss> in the group gets extra 5 <CoinIcon> when they produce or purchase.\nNo <CoinIcon> is deducted if <CitizenPolice><DetectiveSherlock><DetectiveWatson> is in the group.
+Gangster Underboss
+Has a 25% chance to Increase the purchase quantity by 1 when purchased,\nNo <CoinIcon> deducted if <CitizenPolice><DetectiveSherlock><DetectiveWatson> is in the group.
+Gangster Thug
+Get an extra 2 <CoinIcon> when making a purchase.\nNo <CoinIcon> deducted if <CitizenPolice><DetectiveSherlock><DetectiveWatson> is in the group.
+Yellow Element
+Increase everyone's production and purchase quantity by 1, and remove itself after 1 round.
+Bomb Man
+Remove everyone in group and gain 15x the <CoinIcon> gained by all removed players in this round. Remove itself after the round.
+Wishing Star
+Produce 2 random products and remove itself after 2 rounds.
+Toy Bear
+Pink Toy Bear
+Moon
+Gives an extra 4 <CoinIcon> when\n<HalloweenGhostSmall><HalloweenGhost><HalloweenGhostBig><HalloweenPumpkin><HalloweenZombie>\n<VampVampire><RedHoodWolf><VampServant><VampLord>\nin the group gain coins.
+Japanese Ninja
+All groups with <JapanNinja><JapanNinjaShadow> are considered as one group. Summon one <JapanNinjaShadow> at the beginning of each round, and it removes itself after one round.
+Snowman
+Convert into a random character in group, and remove itself after 3 rounds.
+Grim Reaper
+Removes one character randomly and gains 15x <CoinIcon> gained by that character in this round. Remove itself after three rounds.
+Fish in a Jar
+Has a 25% chance that all product prices will increase by 1,\n25% chance everyone Increases their purchase quantity by 1,\n and 25% chance everyone Increases their production by 1.
+Scientist
+Randomly removes 3 items from the shelf, if successful then 8x the price of another product.
+Tin Man
+Makes an 2 <weapon> after 20 rounds and 3 <weapon> after 40 rounds.
+Candy Maker
+Produces 1 <candy> for every <orange> purchased.
+Princess Elise
+Has a 25% chance to produce 1 <gem>, 12% chance to produce 1 <diamond> and if there is a <diamond> on the shelf, gain 30 <CoinIcon>.
+Princess Sleeping
+Gives an extra 20 <CoinIcon> and removes itself after purchasing 3 <gem>.
+Princess Ice
+Has a 30% chance to summon one <PrincessSnowman>.
+Frog Prince
+4x the <CoinIcon> gained by <KindomPrincess><PrincessAriel><PrincessAurora><PrincessElsa><PrincessBelle><PrincessJasmine><PrincessDwarf><PrincessSnowman> in the group.
+Snow White
+Produces 1 random <tomato><fish><egg>.
+Princesa Ella
+Produces 1 random <milk><egg><orange>.
+Dwarf
+Has a 5% chance to produce <diamond> instead of <rock>.
+Foodie
+Increases the price of 5 random <tomato><orange><fish><cookedfood><cake><candy><egg><milk><wine> on the shelf by 2.
+Bartender
+Produces an extra <wine> after 20 rounds.
+Wrestling Master
+Gives <CoinIcon> equall to its level. Purchases all <egg>, and increases its level by 1 for every 20 <egg> purchased.
+Robot Assistant
+Everyone in the group increases production by 1.\nIf <battery> is purchased, increase 1 item price on the shelf by 8.
+Cone Bucket
+Remove self after 20 rounds, cannot be removed by <removed>.
+Architect
+Purchases all <rock>, and every 5 <rock> purchased increases the price of all items on the shelf by 2.
+Ninja's clone
+Taxofficer
+Everyone in group cannot gain <CoinIcon>\nRemove self after 20 rounds, cannot be removed by <removed>.
+Mumy
+Everyone in group cannot purchase\nRemove self after 20 rounds, cannot be removed by <removed>.
+Specter
+Everyone in group cannot produce\nRemove self after 20 rounds, cannot be removed by <removed>.
+Gambler
+Modify the prices of 8 items on the shelf to random values from 1 to 10, Requires 5 <removed> to remove.
+VoidMan
+Remove all product from the shelf after 5 rounds, Requires 5 <removed> to remove.
+Maintenance
+Everyone in group cannot activate abilities other than production and purchase, Requires 5 <removed> to remove.
+Hawker
+Produce 4 random products with a chance of producing <BadCross>, Requires 5 <removed> to remove.
+Salesman
+Everyone purchase at least one product even have no ability to purchase. Only 5 <removed> can be removed.
+Scammer
+The number of basic coins gained by Everyone in group will multiplied by -1, Only 5 <removed> can be removed.
+Red Cross Man
+Gives 3 more <removed>. Remove itself after 1 round.
+Anubis
+Gives 2x its level in <CoinIcon>.\nIncreases level by 1 when anyone is removed (excluding self-removal).
+Soul
+Removes itself and 6x the price of 1 product on the shelf after 10 rounds
+Pharaoh
+Has a 30% chance to summon 1 <MythSoul>.
+Egyptian Sacrifice
+When anyone is removed (excluding self-removal), double the price of 1 product on the shelf, and has a 50% chance to summon 1 <MythSoul>.
+Botanist
+Gives 2x its level in <CoinIcon>.\nremove one of these from the group\n<PlantTomato><PlantOrange><PlantEatFlower><PlantSpike><PlantSunflower><MythSoul>\nand gain 15 <CoinIcon>. Increase 1 level.
+Flower Fairy
+Removes itself and gains 60 <CoinIcon> after 10 rounds
+Total number of people: %d
+Day %d
+Increase <coin> by %d
+Character check: %s, %s
+Character selection: %d
+Count: %d, Requirement: %d
+Increase purchase quantity by %d
+Increase level by %d
+Increase production by %d
+Increase price of product <%s> by %d
+Modify coin production: %d --> %d
+Modify product price: %d
+Probability check %f --> %f
+Production: <%s>
+Product check <%s>: %s
+Reset level to 1
+Remove: <%s>
+Change production to: <%s>
+Convert: <%s> --> <%s>
+Purchase begins
+Special ability begins: %s
+Probability increase: %f
+Increase round coins by %d
+Round coins: %d
+"Hello:\nYou need to pay the maintenance fee of %d<sprite name=""CoinIcon""> next time, and it needs to be paid in %d days."
+Hello:\nPlease pay the maintenance fee.\n
+As a reward, you will receive %s.
+"Pay %d<sprite name=""CoinIcon"">"
+Understood
+Give %d<CoinIcon>
+Receive current level x%d times of <CoinIcon>
+Receive current level <CoinIcon>
+Receive <CoinIcon> x%d times the number of selected people
+Receive <CoinIcon> for the selected people
+Receive <CoinIcon> for the character's round, x%d times the total number of rounds
+Add item: %s
+Add <%s> %d
+If the character on the field includes %s, then
+If it is %s, then
+Make all %s in group,
+Make all teammates,
+Make one %s in group,
+Make one in group,
+Self
+Select all %s,
+All characters
+Select any random character on the field,
+Select a random %s on the field,
+If the shelf contains <%s>, then
+Pick %d <%s> from the shelf,
+Make %d %s on the shelf,
+Make all %s on the shelf,
+Make %d random products on the shelf,
+Count, after %d times,
+Increase the number of purchases by the selected characters by %d times,
+Increase the number of purchases by %d times,
+Increase the level by %d,
+Increase the number of productions by %d times,
+Increase the probability of triggering abilities: selected character number x %d%%,
+Increase the probability of triggering abilities by %d%%,
+Increase the product price: selected character number x %d,
+Price increase by %d times,
+Price increase by %d,
+Price increase by self-level times,
+Increase self-level <%CoinIcon>,
+Increase price by %d times,
+Increase <%CoinIcon> by %d,
+Increase the chance of obtaining <%CoinIcon> by selected character number x %d times,
+For each one, increase the gained <%CoinIcon> by %d,
+Increase the gained <%CoinIcon> by %d,
+Obtain %d more <%CoinIcon>,
+Change the price to %d <%CoinIcon>,
+The next character draw will guarantee a 4-star character.
+%d%% chance,
+The price is all <%CoinIcon> gained in this round,
+Randomly produce %s,
+Produce <%s>,
+If the product is: %s,
+Randomly buy one product on the shelf,
+Protect from being removed,
+Remove,
+Remove,
+Change to produce <%s>,
+Change to randomly produce one of %s,
+Summon: <%s>,
+Randomly summon: %s,
+Transform oneself into the target character,
+<%s> transform into <%s>,
+Transform into <%s>,
+Randomly transform into %s,
+Reset the level to 1,
+Remove after %d rounds,
+Same group,
+At the beginning of the round:
+Before production:
+Before production of group members:
+After production:
+After production of group members:
+Before purchase:
+Before purchase by team members:
+After purchase:
+After purchase by team members:
+Before team members generate coins:
+When there is no shopping:
+When eliminated:
+Before leaving:
+If the level is greater than or equal to %d
+After anyone purchases:
+Before generating round coins:
+Before leaving:
+Failed to log in to Game Center. Reason:
+Not enough items
+This citizen cannot be removed.
+Casual Mode: %d, Campaign Mode: %d
+Notification
+Your bank loan has expired. Please repay.
+OK
+Error
+Login failed, please try again.
+OK
+Warning
+New game will overwrite the existing save, Continue?
+Continue
+Cancel
+Tomato
+Orange
+Fish
+Egg
+Milk
+Knife
+Dish
+Cake
+Candy
+Drinks
+Potion
+Book
+Treasure chest
+Ring
+Battery
+Gun
+Ore
+Gem
+Diamond
+Magic ring
+Gray Cross
+Building 1
+Building 2
+Building 3
+Building 4
+New Game
+Continue
+NEW GAME
+Difficulty Selection
+Start
+Please select a citizen<br><size=60%><color=#FF3333>Long press to select
+LIKES
+MAKES
+/turn
+Hide(D)
+"1<sprite name=""refresh"">"
+Reroll(R)
+Skip(S)
+DAY 1
+December 1st
+wiki
+Level Objective
+Next Round
+Days
+Previous
+"1<sprite name=""CoinIconBig"">"
+New Message!
+Total Entry Fee:
+Total:
+Total Gold from Product Production:
+Total Number of Products Produced:
+Total Gold from Product Sales:
+Total Number of Products Sold:
+Number of Products of Each Type:
+Number of People Eliminated:
+Number of People Summoned:
+Music Volume
+Sound Volume
+Animation Speed
+Power saving Mode
+confirm
+Please select an item<br><size=60%><color=#FF3333>Long press to select
+Resolution
+Main Menu
+Exit
+Restart
+Resume
+You are bankrupt
+Good luck next time.
+OK
+Great
+Great
+List of citizens<br>Can view and dismiss citizens
+Citizen and Prop information
+Citizen refresh and dismiss props
+The basic coins you will get at the end of each round
+Product that can be produced during each turn
+Citizen’s abilities
+Product can be purchased each round
+Citizen rarity
+You have cleared the level and unlocked a new difficulty.
+Gold coins required in total: 8600, a few troublemakers will appear after 50 rounds.
+Gold coins required in total: 9385, a few troublemakers will appear after 50 rounds.
+Gold coins required in total: 9450, troublemakers will appear after 40 rounds.
+Gold coins required in total: 10105, troublemakers will appear after 40 rounds.
+Gold coins required in total: 11250, more troublemakers will appear after 40 rounds.
+Gold coins required in total: 12415, more troublemakers will appear after 40 rounds.
+Gold coins required in total: 13315, more troublemakers will appear after 40 rounds.
+Gold coins required in total: 14415, more troublemakers will appear after 40 rounds.
+Gold coins required in total: 15090, more troublemakers will appear after 30 rounds.
+Gold coins required in total: 17035, more troublemakers will appear after 30 rounds.
+Unique
+Back
+Hold to remove citizens
+Language change requires a game restart to take effect
+Please select a citizen
+12
+Please select an item
+Gaming Data
+Number of Total Runs:
+Number of Victory Runs:
+Highest Difficulty:
+Total Coins Earned in Gameplay:
+Highest Coin Count in a Run:
+Highest Coins Earned in a Single Round:
+Total Number of Crafted Items:
+Quantity of Each Crafted Item
+WIKI
+Data Statistics
+Submit the coins in 5 days.
+Coins that need to be submitted before the deadline.
+Troublemaker Will Appear.
+Days Passed
+Days Remaining
+Level
+Citizen Card
+Assistive Props
+Remove Citizens from the Card Deck
+Citizen management list
+Re-roll normal Citizens
+Re-roll 4-star Citizens and Artifacts
+Manage Citizens
+Next Page
+Previous Page
+A troublemaker has come to your city.
+Casual
+Campaign
+Total gold coins required: 8600
+Total gold coins required: 9111
+Total gold coins required: 9620
+Total gold coins required: 10130
+Total gold coins required: 10639
+Total gold coins required: 11150
+Total gold coins required: 11659
+Total gold coins required: 12169
+Total gold coins required: 12678
+Total gold coins required: 13189
+Total gold coins required: 13698
+Total gold coins required: 14203
+Total gold coins required: 14672
+Total gold coins required: 15143
+Total gold coins required: 15575
+Total gold coins required: 15960
+Total gold coins required: 16345
+Total gold coins required: 16520
+Total gold coins required: 16761
+Total gold coins required: 17002
+Congratulations on completing the trial! If you want to experience the full game, please download the complete version.\nIn the full version, you will experience:\n  1.Complete 100-round levels.\n  2.Different difficulty options.\n  3.Artifact functionality.\n  4.Prankster functionality.\n  5.Upcoming features in future updates.
+Same Group
+Citizens in the same street are in the same group. There are two groups of people here.
+Remove
+Remove citizens from the card deck. Some citizens can remove specific people. You can also remove citizens you don't want with a red cross.
+Purchase and Produce
+Produce  Ability
+Purchase  Ability
+Production: Generate items to the shelf. Purchase: Get items from the shelf and get gold coins.
+Glossary
+Citizens can earn coins by purchasing goods produced by others.
+How to earn coins.
+If the goods are dropped into the trash, they will disappear.
+Tutorial
+Full Screen
+Purchase Ad-Free
+Rounds Data
+
+Well done.
+You have reached the required coins for 100 days in advance, and you can proceed directly to the next level.<br>Do you want to continue playing?
+Continue
+End
+Hide
+Reroll
+Skip
+Citizen level
+Settings 
+Daily
+This Run
+Font Size
+Filter
+Select all
+Deselect all
+Endless Mode
